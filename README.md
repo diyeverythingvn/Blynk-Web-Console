@@ -73,4 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Credits
 
-Developed by [**DIY Everything VN**](https://diyevrything.cc).
+Developed by [**DIY Everything VN**](https://diyeverything.cc).
